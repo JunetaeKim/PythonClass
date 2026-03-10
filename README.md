@@ -1,6 +1,6 @@
 ## Computer programming language for A.I. (AE5002)
 
-Welcome to the repository for the Computer Programming Language for AI (AE5002) course, offered by the Graduate School of Cancer Science and Policy (GCSP). The course is led by Assistant Professor Junetae Kim. The primary aim of this repository is to assist students in learning Python programming through lecture notes and practical exercises.
+Welcome to the repository for the Computer Programming Language for AI (AE5002) course, offered by the Graduate School of Cancer Science and Policy (GCSP). The course is led by Associate Professor Junetae Kim. The primary aim of this repository is to assist students in learning Python programming through lecture notes and practical exercises.
 
 
 ### Course Objectives
@@ -23,7 +23,7 @@ Welcome to the repository for the Computer Programming Language for AI (AE5002) 
 
 For any inquiries or assistance, please contact:
 
-- Assistant Professor Junetae Kim
+- Associate Professor Junetae Kim
   - Email: lyjune0070@gmail.com
   - Office: National Cancer Center, Cancer Screening Building, Room 1014-1
 
